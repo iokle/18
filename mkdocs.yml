@@ -1,9 +1,0 @@
-site_name: zoom与动物zoom
-description: zoom与动物zoom欢迎访问
-theme:
-  name: readthedocs
-nav:
-  - Home: index.md
-  - About: about.md
-  - Features: features.md
-  - Contact: contact.md
